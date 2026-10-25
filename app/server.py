@@ -1,4 +1,3 @@
-python
 import os
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
